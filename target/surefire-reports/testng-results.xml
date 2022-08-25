@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-25T23:22:30 IST" name="Surefire suite" finished-at="2022-08-25T23:23:49 IST" duration-ms="78618">
+  <suite started-at="2022-08-26T00:18:24 IST" name="Surefire suite" finished-at="2022-08-26T00:19:44 IST" duration-ms="79877">
     <groups>
     </groups>
-    <test started-at="2022-08-25T23:22:30 IST" name="Surefire test" finished-at="2022-08-25T23:23:49 IST" duration-ms="78618">
+    <test started-at="2022-08-26T00:18:24 IST" name="Surefire test" finished-at="2022-08-26T00:19:44 IST" duration-ms="79877">
       <class name="interview.testCases.TestCases_Searching">
-        <test-method is-config="true" signature="setup()[pri:0, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-25T23:22:20 IST" name="setup" finished-at="2022-08-25T23:22:30 IST" duration-ms="10642" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-26T00:18:12 IST" name="setup" finished-at="2022-08-26T00:18:24 IST" duration-ms="11876" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Access_Product_Via_Search()[pri:0, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-25T23:22:30 IST" name="Access_Product_Via_Search" finished-at="2022-08-25T23:22:38 IST" duration-ms="7223" status="PASS">
+        <test-method signature="Access_Product_Via_Search()[pri:0, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-26T00:18:24 IST" name="Access_Product_Via_Search" finished-at="2022-08-26T00:18:32 IST" duration-ms="7547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Access_Product_Via_Search -->
-        <test-method signature="Access_Product_using_Filter()[pri:1, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-25T23:22:38 IST" name="Access_Product_using_Filter" finished-at="2022-08-25T23:23:49 IST" duration-ms="71369" status="PASS">
+        <test-method signature="Access_Product_using_Filter()[pri:1, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-26T00:18:32 IST" name="Access_Product_using_Filter" finished-at="2022-08-26T00:19:44 IST" duration-ms="72306" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Access_Product_using_Filter -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-25T23:23:49 IST" name="teardown" finished-at="2022-08-25T23:23:50 IST" duration-ms="984" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:interview.testCases.TestCases_Searching@692f203f]" started-at="2022-08-26T00:19:44 IST" name="teardown" finished-at="2022-08-26T00:19:46 IST" duration-ms="1731" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

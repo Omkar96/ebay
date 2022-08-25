@@ -13,7 +13,7 @@ import interview.basePackage.Baseclass;
 public class TestUtil extends Baseclass{
     public static int PAGE_LOAD_TIMEOUT = 10;
     public static int IMPLICIT_WAIT = 10;
-    public static int EXPLICIT_WAIT = 10;
+    public static int EXPLICIT_WAIT = 5;
 
     public void Takescreenshot(String filename){
         File Screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
