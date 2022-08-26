@@ -28,6 +28,8 @@ Run - Using Command Line
 Run - Using preferred IDE
 ```bash
 Right Click -> testng.xml -> Run As -> TestNG
+OR 
+Right Click -> project -> Run As -> TestNG
 ```
 
 
